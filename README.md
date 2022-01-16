@@ -1,4 +1,4 @@
-# My Projects I've contributed in
+# My Projects I've contributed to
 
 -   [Expoll](https://expoll.mt32.net) - a polling website
 -   [eclipseTabs](https://github.com/Universumgames/eclipseTabs) a Firefox extension for organizing your tabs beautifully [Add to firefox](https://addons.mozilla.org/en-US/firefox/addon/eclipsetabs/)
