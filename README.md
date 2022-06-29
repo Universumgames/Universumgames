@@ -14,6 +14,8 @@
 
 # [My website](https://universegame.de)
 
+# [My Blog](https://mt32.net)
+
 # And here my Github statistics
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=universumgames&count_private=true&show_icons=true&theme=dark&hide_rank=true&line_height=29&hide_border=true&custom_title=Universumgames+Stats&hide=prs&orgs=mt32net" />
