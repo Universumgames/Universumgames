@@ -2,7 +2,7 @@
 
 -   [Expoll](https://expoll.mt32.net) - a polling website
 -   [eclipseTabs](https://github.com/Universumgames/eclipseTabs) a Firefox extension for organizing your tabs beautifully [Add to firefox](https://addons.mozilla.org/en-US/firefox/addon/eclipsetabs/)
--   [Qube Puzzle](https://github.com/Universumgames/cube_puzzle) a 2d puzzle game on a dice developed in SDL2 and C++ (view on [itch.io](https://universegame.itch.io/qubepuzzle))
+-   [Qube Puzzle](https://github.com/Universumgames/cube_puzzle) a 2d puzzle game on a dice developed in SDL2 and C++ (view on [itch.io](https://universegame.itch.io/qubepuzzle) or join the [iOS beta](https://testflight.apple.com/join/QovvxX22))
 -   [Confman](https://confman.universegame.de) - an iOS/MacOS Conference Manager to easily sync and join your online-meetings between all your iCloud Devices
 -   [Brill](https://brillapp.com) - an iOS app for easily learning new words through widgets
 -   [TIDILE](https://github.com/mt32net/TIDILE) - an ESP32 project to turn your LED strip into a cool clock
